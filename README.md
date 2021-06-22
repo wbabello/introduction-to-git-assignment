@@ -1,6 +1,6 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
 
-# Lorem ipsum: Assignment
+# Introduction to Git: Assignment
 
 ## Instructions
 
